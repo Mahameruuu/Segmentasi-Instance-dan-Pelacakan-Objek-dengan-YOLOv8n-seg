@@ -11,4 +11,5 @@ Proyek ini memanfaatkan YOLOv8n-seg untuk melakukan deteksi objek dan segmentasi
 
 Untuk menjalankan proyek ini, pastikan Anda telah menginstal pustaka-pustaka berikut:
 
-# pip install opencv-python-headless ultralytics
+```bash
+pip install opencv-python-headless ultralytics
