@@ -13,3 +13,21 @@ Untuk menjalankan proyek ini, pastikan Anda telah menginstal pustaka-pustaka ber
 
 ```bash
 pip install opencv-python-headless ultralytics
+
+Langkah-langkah Penggunaan
+1. Clone repositori
+
+```bash
+git clone https://github.com/yourusername/instance-segmentation-object-tracking.git
+cd instance-segmentation-object-tracking
+
+2. Letakkan file video input Anda di direktori proyek dan beri nama mobil.mp4 atau ubah skrip untuk menggunakan file video yang Anda inginkan.
+3. Jalankan skrip
+
+```bash
+python main.py
+
+
+## Referensi
+# Dokumentasi Ultralytics YOLO
+# Dokumentasi OpenCV
